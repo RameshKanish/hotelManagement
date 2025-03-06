@@ -1,2 +1,7 @@
-package model;public class RoomType {
+package model;
+
+public enum RoomType {
+    STANDARD ,
+    DELUXE,
+    FAMILY,
 }

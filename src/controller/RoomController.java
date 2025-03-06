@@ -1,2 +1,5 @@
-package controller;public class RoomController {
+package controller;
+
+public class RoomController {
+
 }

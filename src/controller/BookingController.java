@@ -1,2 +1,5 @@
-package controller;public class BookingController {
+package controller;
+
+public class BookingController {
+
 }
